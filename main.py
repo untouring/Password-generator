@@ -80,7 +80,7 @@ password_entry = Entry(width=21)
 password_entry.grid(column=1, row=3, columnspan=1)
 
 email_entry = Entry(width=35)
-email_entry.insert(0, "architect.best@yandex.ru")
+email_entry.insert(0, "Write your email right there")
 email_entry.grid(column=1, row=2, columnspan=2)
 
 
